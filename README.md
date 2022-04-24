@@ -23,19 +23,19 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 - Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
 
-**Course Link:** [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+**Course Link:** [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
 
 <br>
 
 ## Specialization Overview
 
-| No      | Course                                                                         				      |	
+| No      | Course                                                                         				                            |	
 |:-------:|-------------------------------------------------------------------------------------------------------------------|
-| 01.     | Introduction to Data Analytics     		                                      				      |
+| 01.     | Introduction to Data Analytics     		                                      				                              |
 | 02.     | [Excel Basics for Data Analysis](Excel_Basics_for_Data_Analysis)                                                  |                          
 | 03.     | [Data Visualization and Dashboards with Excel and Cognos](Data_Visualization_and_Dashboards_with_Excel_and_Cognos)|                   
-| 04.	  | [Python for Data Science, AI, Development](Python_for_Data_Science_AI_Development)                                |
-| 05.     | [Python Project for Data Science](Python_Project_for_Data_Science)      	                                      |
+| 04.	    | [Python for Data Science, AI, Development](Python_for_Data_Science_AI_Development)                                |
+| 05.     | [Python Project for Data Science](Python_Project_for_Data_Science)      	                                        |
 | 06.     | [Databases and SQL for Data Science](Databases_and_SQL_for_Data_Science)                                          |
 | 07.     | [Data Analysis with Python](Data_Analysis_with_Python)                                                            |
 | 08.     | [Data Visualization with Python](Data_Visualization_with_Python)                                                  |
